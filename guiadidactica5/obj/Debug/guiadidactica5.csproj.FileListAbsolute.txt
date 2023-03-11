@@ -1,0 +1,8 @@
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\guiadidactica5\bin\Debug\guiadidactica5.exe.config
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\guiadidactica5\bin\Debug\guiadidactica5.exe
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\guiadidactica5\bin\Debug\guiadidactica5.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\guiadidactica5\obj\Debug\guiadidactica5.csproj.AssemblyReference.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\guiadidactica5\obj\Debug\guiadidactica5.csproj.SuggestedBindingRedirects.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\guiadidactica5\obj\Debug\guiadidactica5.csproj.CoreCompileInputs.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\guiadidactica5\obj\Debug\guiadidactica5.exe
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\guiadidactica5\obj\Debug\guiadidactica5.pdb
